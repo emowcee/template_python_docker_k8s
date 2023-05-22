@@ -1,6 +1,4 @@
-Sure, here's a README.md for the above:
 
----
 # Simple Flask App Deployment on Kubernetes
 
 This project demonstrates how to containerize a simple Flask application, build a Docker image, and deploy it on a Kubernetes cluster.
